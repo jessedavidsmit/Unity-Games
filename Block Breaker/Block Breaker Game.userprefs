@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Glitch Garden\Glitch Garden\Assets\Scripts\Defenders.cs">
+    <Files>
+      <File FileName="..\..\Glitch Garden\Glitch Garden\Assets\Scripts\Spawner.cs" Line="25" Column="43" />
+      <File FileName="..\..\Glitch Garden\Glitch Garden\Assets\Scripts\Shredder.cs" Line="7" Column="17" />
+      <File FileName="..\..\Glitch Garden\Glitch Garden\Assets\Scripts\Shooter.cs" Line="34" Column="3" />
+      <File FileName="..\..\Glitch Garden\Glitch Garden\Assets\Scripts\Attacker.cs" Line="33" Column="48" />
+      <File FileName="..\..\Glitch Garden\Glitch Garden\Assets\Scripts\Defenders.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

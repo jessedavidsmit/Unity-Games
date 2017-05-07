@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Block Breaker\Block Breaker Game\Assets\Scripts\Paddle.cs">
+    <Files>
+      <File FileName="..\Block Breaker\Block Breaker Game\Assets\Scripts\BrickScript.cs" Line="6" Column="2" />
+      <File FileName="..\Block Breaker\Block Breaker Game\Assets\Scripts\LevelManager.cs" Line="23" Column="30" />
+      <File FileName="..\Block Breaker\Block Breaker Game\Assets\Scripts\MusicPlayer.cs" Line="1" Column="1" />
+      <File FileName="..\Block Breaker\Block Breaker Game\Assets\Scripts\BallScript.cs" Line="41" Column="30" />
+      <File FileName="..\Block Breaker\Block Breaker Game\Assets\Scripts\Paddle.cs" Line="27" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
